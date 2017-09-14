@@ -1,0 +1,29 @@
+{
+  "name": "cordova-qdc-baidu-location",
+  "version": "1.0.0",
+  "description": "baidu location",
+  "cordova": {
+    "id": "cordova-qdc-baidu-location",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenyuanchn/cordova-qdc-baidu-location.git"
+  },
+  "keywords": [
+    "update",
+    "Cordova",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0"
+    }
+  ],
+  "author": "",
+  "license": "Apache 2.0"
+}
